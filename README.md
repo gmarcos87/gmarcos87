@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **weAreHorizontal.org**
+- 🏢 I'm currently working at **Bynder** and contributing at **weAreHorizontal.org**
 - ⚙️  I use daily: `.ts`, `.js`, `.html`, `.css`, `.scss`, `.json`, `.sh`
 - 🌍 I'm mostly active within the **Secure Scuttlebutt** community
 - 🌱 Learning all about **gardening**, **3d printing**, **clean code**, **community currency**
