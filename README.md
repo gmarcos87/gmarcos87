@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working in Córdoba, Argentina.
 
 ##### NOW
-
+- 📂 Bynder
 - 🌐 Tella Web [Website](https://wearehorizontal.org)
 - 💅 Designing a digital currency that doesn't need the Internet
 - 🎙 Listening [¿Cómo le explico a mi alien?](https://open.spotify.com/show/74e9dnTOQn8uuiD085jTUj)
