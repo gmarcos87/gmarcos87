@@ -18,3 +18,7 @@
 - 💬 Ping me about **react**, **daps**, **ssb**, **development**, **co-ops**
 - 📫 Reach me: [twitter.com/jsPixxel](https://twitter.com/jsPixxel)
 - ⚡️ Fun fact: Always check what I say, I usually make up funny facts to have fun.
+
+##### LAST POSTS
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
