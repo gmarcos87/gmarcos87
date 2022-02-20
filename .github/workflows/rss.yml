@@ -16,5 +16,5 @@ jobs:
         with:
           feed-url: https://dev.to/feed/gmarcos87
           readme-section: feed
-          branch: main
+          branch: master
 
