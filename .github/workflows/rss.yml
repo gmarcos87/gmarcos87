@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: view-source:https://dev.to/feed/gmarcos87
+          feed-url: https://dev.to/feed/gmarcos87
           readme-section: feed
           branch: main
 
