@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Córdoba, Argentina.
+#### I'm a Full-Stack Developer
 
 ##### NOW
 - 📂 Bynder
