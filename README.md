@@ -6,8 +6,8 @@
 - 📂 Bynder
 - 🌐 Tella Web [Website](https://wearehorizontal.org)
 - 💅 Designing a digital currency that doesn't need the Internet
-- 🎙 Listening [¿Cómo le explico a mi alien?](https://open.spotify.com/show/74e9dnTOQn8uuiD085jTUj)
-- 💬 Currently reading [Clean Code - Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) and *¿La rebeldía se volvió de derecha? - Pablo Stefanoni*
+- 🎙 Listening [La Cruda](https://open.spotify.com/show/2G0HRZba65w6T9NDNScNK2) | [Complete Developer Podcast](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN) | [DevRock Podcast](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq)
+- 💬 Currently reading [Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340/) and [Todos los demonios están aquí](https://www.penguinlibros.com/ar/aventuras/261722-libro-todos-los-demonios-estan-aqui-9789877388121)
 
 ##### BIO
 
