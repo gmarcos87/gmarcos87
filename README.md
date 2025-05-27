@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer
+#### I'm a Staff Software Developer
 
 ##### NOW
 - 📂 Bynder
