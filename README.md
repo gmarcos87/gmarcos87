@@ -4,7 +4,6 @@
 
 ##### NOW
 - 📂 Bynder
-- 💬 Currently reading [Americanah](https://en.wikipedia.org/wiki/Americanah) / [Visualizing Data: Exploring and Explaining Data](https://www.oreilly.com/library/view/visualizing-data/9780596514556/)
 
 ##### BIO
 
