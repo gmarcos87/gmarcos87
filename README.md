@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Staff Software Developer
-
-##### NOW
-- 📂 Bynder
+#### I'm a Staff Software Developer at Bynder
 
 ##### BIO
 
